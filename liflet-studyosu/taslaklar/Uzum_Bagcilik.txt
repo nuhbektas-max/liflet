@@ -1,0 +1,63 @@
+﻿# BAĞCILIK
+Üzüm Yetiştiriciliği
+
+## İç Anadolu'da Bağcılık
+Nevşehir (Kapadokya), Kırşehir, Niğde ve Ankara'nın Kalecik ilçesi köklü bağcılık alanlarıdır. Kalecik Karası, Emir ve Hasandede gibi yerel çeşitler bölgenin değerli genetik kaynaklarıdır.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Anaç | 41 B, 110 R, 1103 P |
+| Dikim | Mart–nisan |
+| Aralık | 2,5–3 × 1,2–1,5 m |
+| Kış budaması | Şubat–mart |
+| Hasat | Ağustos sonu–ekim |
+
+## İklim ve Toprak
+Asma sıcak ve kurak yazları sever. Kış sıcaklığının -18 / -20°C'nin altına düştüğü yerlerde gözler zarar görebilir; bu bölgelerde genç omcaların kışın toprakla örtülmesi zararı azaltır.
+Asma kireçli, taşlı ve kumlu topraklarda da yetişebilir; ancak taban suyu yüksek, ağır ve su tutan topraklar uygun değildir.
+
+## Anaç ve Dikim
+Filoksera (kök biti) nedeniyle bağlar mutlaka Amerikan asma anaçları üzerine aşılı fidanlarla kurulmalıdır. Kireçli topraklarda 41 B, kurak koşullarda 110 R ve 1103 P gibi anaçlar tercih edilir.
+Dikim mart–nisan aylarında yapılır. Telli terbiyede sıra arası 2,5–3 m, sıra üzeri 1,2–1,5 m uygundur.
+
+## Terbiye ve Budama
+Telli terbiye sistemleri verim, kalite ve makineli bakım açısından geleneksel goble (baş) terbiyesine göre avantajlıdır.
+- **Kış budaması:** Şubat–mart aylarında, çeşidin verimli göz durumuna göre kısa veya uzun budama
+- **Yeşil budama:** Gereksiz sürgünlerin alınması, sürgün uçlarının kesilmesi
+- **Yaprak alma:** Salkım çevresindeki yaprakların seyreltilmesi hastalık riskini azaltır
+
+## Gübreleme ve Sulama
+Gübreleme toprak analizine göre yapılmalıdır; aşırı azot sürgün büyümesini artırıp kaliteyi düşürür.
+Bağlar genellikle kuru koşullarda yetiştirilir. Tane büyüme döneminde yapılan kontrollü sulama verimi artırır; olgunlaşmaya yakın sulama kesilmelidir.
+
+## Hastalık ve Zararlılar
+- **Bağ küllemesi:** En yaygın hastalıktır; sürgünler 25–30 cm olunca koruyucu mücadeleye başlanır.
+- **Mildiyö:** Yağışlı ve nemli dönemlerde yaprak ve salkımlara zarar verir.
+- **Kurşuni küf:** Olgunluk döneminde salkım çürümesine neden olur.
+- **Salkım güvesi:** Feromon tuzaklarıyla takip edilmelidir.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat
+Şaraplık ve kurutmalık çeşitler şeker birikimine (refraktometre ile ölçülen kuru madde), sofralık çeşitler ise tane rengi ve tadına göre ağustos sonu–ekim aylarında hasat edilir. Salkımlar sabahın serin saatlerinde, ezilmeden toplanmalıdır.
+
+## Ürünün Değerlendirilmesi
+İç Anadolu'da üzüm sofralık ve şaraplık olarak tüketilmenin yanında kurutularak, pekmez, pestil ve köme yapımında da değerlendirilir. Kapadokya'da geleneksel pekmez ve pestil üretimi bağcılığa önemli bir katma değer sağlar. Kurutmalık üzüm temiz sergilerde, tozdan ve nemden korunarak kurutulmalıdır.
+
+## Sık Yapılan Hatalar
+- **Anaçsız fidan dikmek:** Filoksera bağı birkaç yılda kurutur
+- **Külleme mücadelesine geç başlamak:** Salkımlar çatlar ve çürür
+- **Olgunlukta sulamaya devam etmek:** Şeker ve kalite düşer
+- **Fazla azot:** Sürgün artar, salkım ve hastalık sorunu çoğalır
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Kış budaması: 2-3
+Omca açma (örtülü bağlar): 4
+Yeşil budama: 5-7
+Külleme mücadelesi: 5-8
+Salkım güvesi takibi: 5-8
+Sulama: 6-7
+Hasat: 8-10
+Toprakla örtme: 11

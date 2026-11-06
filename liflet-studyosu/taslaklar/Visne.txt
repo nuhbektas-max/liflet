@@ -1,0 +1,65 @@
+﻿# VİŞNE
+Yetiştiriciliği
+
+## Vişnenin Önemi
+Vişne, meyve suyu, reçel ve dondurulmuş gıda sanayiinin önemli hammaddesidir. Soğuğa en dayanıklı sert çekirdekli meyvelerden biri olduğu için İç Anadolu'nun karasal ikliminde başarıyla yetiştirilir. Erken verime yatar ve bakımı görece kolaydır.
+> Biliyor musunuz? Vişne meyvelerini bir yıllık sürgünler ve kısa dallar üzerinde verir. Düzenli gençleştirme budaması yapılmazsa dallar çıplaklaşır ve verim düşer.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Anaç | Mahlep (kireçli, kurak), yabani kiraz |
+| Dikim aralığı | 5×4 – 6×5 m |
+| Tozlanma | Çoğu çeşit kendine verimli |
+| En önemli hastalık | Monilya |
+| Hasat | Haziran sonu–temmuz |
+
+## İklim ve Toprak
+Vişne kış soğuklarına dayanıklıdır; ancak açmış çiçekler ilkbahar geç donlarından zarar görebilir. Çiçeklenme döneminde yağışlı ve serin hava monilya hastalığını artırır.
+Derin, süzek, tınlı topraklarda en iyi gelişir. Su tutan ağır topraklarda kök boğulması ve kök çürüklüğü görülür; drenajı kötü alanlardan kaçınılmalıdır.
+
+## Anaç, Çeşit ve Dikim
+Kireçli ve kurak topraklarda mahlep anacı, nemli ve derin topraklarda yabani kiraz anacı tercih edilir.
+- **Çeşit:** Bölgeye uygun, meyve suyu ve sofralık kalitesi yüksek tescilli çeşitler (ör. Kütahya)
+- **Tozlanma:** Vişne çeşitlerinin çoğu kendine verimlidir; kirazda ise mutlaka tozlayıcı gerekir
+- **Dikim aralığı:** Anaca göre 5×4 – 6×5 m
+- **Dikim zamanı:** Sonbaharda yaprak dökümünden sonra veya ilkbaharda erken
+
+## Budama
+Ağaca genellikle goble (vazo) veya modifiye lider şekli verilir. Verim çağındaki ağaçlarda yaşlanmış ve çıplaklaşmış dallar kısaltılarak yeni sürgün oluşumu teşvik edilmelidir.
+Budama, hastalık bulaşma riskini azaltmak için kuru havada yapılmalıdır. Monilya ile kuruyan sürgün ve dallar sağlam kısımdan kesilip bahçeden uzaklaştırılmalıdır.
+
+## Gübreleme ve Sulama
+Gübreleme toprak ve yaprak analizine göre yapılmalıdır. Çiftlik gübresi sonbaharda, azot ilkbaharda verilmelidir; fazla azot meyve kalitesini düşürür.
+Damla sulama ile meyve büyüme döneminde toprak nemi korunmalıdır. Hasattan önce aşırı sulama meyve çatlamasına yol açabilir.
+
+## Hastalık ve Zararlılar
+- **Monilya:** Çiçek ve sürgünleri kurutur, meyvede çürüklük yapar; yağışlı çiçeklenme dönemlerinde koruyucu ilaçlama yapılmalıdır.
+- **Yaprak lekesi:** Yapraklarda küçük mor lekeler ve erken yaprak dökümüne neden olur; dökülen yapraklar toplanıp imha edilmelidir.
+- **Kiraz sineği:** Larvaları meyve etini yer; sarı yapışkan tuzaklarla takip edilmelidir.
+- **Yaprak bitleri:** Sürgün uçlarında kıvrılma ve gelişme geriliğine neden olur.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla ve hasat öncesi bekleme sürelerine uyularak yapılmalıdır.
+
+## Hasat
+Vişne, meyveler koyu kırmızı rengini alıp tam olgunlaştığında haziran sonu–temmuz aylarında hasat edilir. Sofralık meyveler saplı olarak elle, sanayilik meyveler sapsız toplanabilir; büyük bahçelerde sarsma makineleri kullanılır.
+Hasat edilen meyve güneşte bekletilmemeli, en kısa sürede soğutulmalı veya işleme tesisine ulaştırılmalıdır.
+
+## Pazarlama ve Değerlendirme
+Vişnenin büyük bölümü meyve suyu, reçel, konserve ve dondurulmuş gıda sanayiinde işlenir. Sanayi firmalarıyla yapılan sözleşmeli üretim, ürünün hasat sonrası hızla değerlendirilmesini ve fiyat güvencesini sağlar. Sofralık satışta iri ve saplı meyveler daha değerlidir.
+
+## Sık Yapılan Hatalar
+- **Gençleştirme budaması yapmamak:** Dallar çıplaklaşır, verim düşer
+- **Monilyalı dalları bahçede bırakmak:** Hastalık her yıl artar
+- **Kiraz sineğini takip etmemek:** Kurtlu meyve pazar değerini kaybeder
+- **Hasattan sonra meyveyi güneşte bekletmek:** Kalite hızla düşer
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Budama: 2-3, 7
+Gübreleme: 3-4, 11
+Çiçeklenme ve monilya: 4
+Kiraz sineği takibi: 5-6
+Yaprak lekesi takibi: 5-8
+Sulama: 5-8
+Hasat: 6-7

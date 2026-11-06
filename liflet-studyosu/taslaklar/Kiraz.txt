@@ -1,0 +1,55 @@
+﻿# KİRAZ
+Yetiştiriciliği
+
+## Kirazın Önemi
+Türkiye dünyanın en büyük kiraz üreticisidir ve 0900 Ziraat çeşidiyle önemli bir ihracatçıdır. İç Anadolu'nun yüksek rakımlı bölgelerinde geç olgunlaşan kaliteli kiraz, pazarda değerli bir üründür.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Anaç | Mahlep, kuş kirazı, Gisela (bodur) |
+| Ana çeşit | 0900 Ziraat |
+| Tozlanma | Tozlayıcı çeşit zorunlu |
+| En önemli zararlı | Kiraz sineği |
+| Hasat | Haziran–temmuz |
+
+## İklim ve Toprak
+Kiraz yüksek soğuklanma ister ve İç Anadolu iklimine uygundur. Çiçekler ilkbahar geç donlarına, olgun meyveler ise hasat öncesi yağmurlara (çatlama) hassastır.
+Derin, süzek, tınlı topraklarda iyi gelişir. Su tutan ağır topraklarda kök boğulması ve çürüklüğü sık görülür.
+
+## Anaç, Çeşit ve Tozlanma
+- **Mahlep:** Kireçli ve kurak topraklar için
+- **Kuş kirazı:** Derin ve nemli topraklar için, kuvvetli gelişir
+- **Gisela 5 ve 6:** Bodur anaçlar; verimli, sulanan topraklarda ve destek sistemiyle
+- **Tozlanma:** Kiraz çeşitlerinin çoğu kendine kısırdır; 0900 Ziraat için uyumlu tozlayıcı çeşitler bahçeye dikilmelidir
+
+## Budama ve Bakım
+Ağaca genellikle goble (vazo) veya modifiye lider şekli verilir. Budama kuru havada yapılmalı, hastalıklı dallar bahçeden uzaklaştırılmalıdır.
+Damla sulama ile meyve büyüme döneminde düzenli su verilmeli, hasattan önce aşırı sulamadan kaçınılmalıdır. Gübreleme toprak ve yaprak analizine göre yapılmalıdır.
+
+## Hastalık ve Zararlılar
+- **Kiraz sineği:** Larvaları meyve etini yer; sarı yapışkan tuzaklar ve tahmin–uyarı bildirimleriyle mücadele edilir.
+- **Monilya:** Yağışlı çiçeklenme döneminde çiçek ve sürgünleri kurutur.
+- **Yaprak delen (çil):** Yapraklarda delikler ve erken yaprak dökümüne neden olur.
+- **Siyah yaprak biti:** Sürgün uçlarını kıvırır, gelişmeyi durdurur.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla ve hasat öncesi bekleme sürelerine uyularak yapılmalıdır.
+
+## Hasat
+Kiraz, çeşide özgü rengini aldığında sapıyla birlikte, sabahın serin saatlerinde elle hasat edilir. Meyveler güneşte bekletilmeden gölgeye alınmalı ve hızla soğutulmalıdır; ihracatta soğuk zincir kesintisiz sürdürülmelidir.
+Boylanmış, saplı ve hasar görmemiş kiraz ihracatta çok daha yüksek fiyat bulur. Hasat kasaları gölgede bekletilmeli, meyveler mümkün olan en kısa sürede ön soğutmaya alınmalıdır.
+
+## Sık Yapılan Hatalar
+- **Tozlayıcı dikmemek:** Çiçek bol olur ama meyve tutmaz
+- **Kiraz sineğini takip etmemek:** Kurtlu meyve ihracatta reddedilir
+- **Saplarını koparmak:** Meyve çabuk bozulur
+- **Hasattan sonra güneşte bekletmek:** Meyve yumuşar, raf ömrü kısalır
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Budama: 2-3, 7
+Gübreleme: 3-4, 11
+Çiçeklenme ve monilya: 4
+Kiraz sineği takibi: 5-7
+Sulama: 5-8
+Hasat: 6-7

@@ -1,0 +1,54 @@
+﻿# SOĞAN
+Yetiştiriciliği
+
+## Soğanın Önemi
+Soğan, mutfaklarımızın temel sebzesidir. Ankara'nın Polatlı ilçesi başta olmak üzere İç Anadolu, Türkiye'nin önemli kuru soğan üretim alanlarındandır. Kuru soğan, iyi kurutulup depolandığında aylarca pazarlanabilir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Üretim şekli | Arpacıktan veya tohumdan |
+| Dikim / ekim | Mart–nisan |
+| Sulama kesme | Hasattan 2–3 hafta önce |
+| Hasat | Yaprakların yarısından fazlası yatınca |
+| Depolama | Serin, kuru, havadar |
+
+## Toprak ve Ekim Nöbeti
+Hafif ve orta bünyeli, süzek, yabancı ot tohumu az topraklar seçilmelidir. Soğan sineği ve toprak kökenli hastalıklar nedeniyle aynı tarlaya 3–4 yıl arayla soğan ekilmelidir.
+
+## Dikim ve Ekim
+Kuru soğan genellikle arpacıktan veya doğrudan tohumdan yetiştirilir. Arpacıklar mart–nisan aylarında sıralara dikilir; tohumla ekimde hassas mibzer kullanılmalıdır. Sertifikalı tohum ve sağlıklı arpacık kullanılmalıdır.
+
+## Bakım ve Sulama
+Soğan yabancı otlarla rekabete çok hassastır; düzenli çapa ve yabancı ot kontrolü şarttır. Gübreleme toprak analizine göre yapılmalıdır.
+Damla veya yağmurlama ile düzenli sulama yapılmalıdır. Baş oluşumu döneminde su stresi verimi düşürür. Depolama ömrü için sulama hasattan 2–3 hafta önce kesilmelidir.
+
+## Hastalık ve Zararlılar
+- **Soğan mildiyösü:** Serin ve nemli havalarda yapraklarda küf oluşturur.
+- **Thrips:** Yapraklarda gümüşi lekelere neden olur; sıcak ve kurak dönemlerde artar.
+- **Soğan sineği:** Larvaları baş ve köklere zarar verir; ekim nöbeti önemlidir.
+- **Boyun çürüklüğü:** Depoda çürümeye yol açar; iyi kurutma ile önlenir.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat, Kurutma ve Depolama
+Yaprakların yarısından fazlası yere yattığında hasat edilir. Sökülen soğanlar tarlada veya gölgeli, havadar bir yerde 1–2 hafta kurutulmalıdır (kür). Boyun kısmı iyi kurumadan depoya konulmamalıdır.
+Depolama serin, kuru ve havadar ortamda yapılmalı, çürüyen başlar düzenli olarak ayıklanmalıdır.
+Depolama süresince sıcaklık ve nemin yükselmesi soğanın filizlenmesine ve çürümesine neden olur; depo düzenli olarak havalandırılmalıdır.
+
+## Sık Yapılan Hatalar
+- **Hasada kadar sulamak:** Soğan depoda çabuk çürür
+- **Kurutmadan depolamak:** Boyun çürüklüğü artar
+- **Yabancı otu ihmal etmek:** Baş küçük kalır
+- **Aynı tarlaya her yıl soğan ekmek:** Sinek ve hastalıklar birikir
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Toprak hazırlığı: 3
+Arpacık dikimi ve ekim: 3-4
+Çapa ve yabancı ot: 4-6
+Sulama: 5-8
+Thrips takibi: 6-7
+Hasat: 8-9
+Kurutma: 8-9
+Depolama: 9-3

@@ -1,0 +1,60 @@
+﻿# ARPA
+Yetiştiriciliği
+
+## Neden Arpa?
+Arpa, kuraklığa ve tuzluluğa buğdaydan daha dayanıklıdır, daha erken olgunlaşır ve yaz kuraklığından kaçar. İç Anadolu'da hayvan yemi ve malt sanayii için önemli bir üründür.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Eylül sonu–ekim başı |
+| Tohum | 16–20 kg/da |
+| Derinlik | 3–5 cm |
+| Kullanım | Yemlik veya maltlık |
+| Hasat | Buğdaydan 7–10 gün önce |
+
+## Toprak Hazırlığı
+Nadas alanlarında toprak ilkbaharda işlenmeli, yabancı otlar temizlenmelidir. Ekimden önce tohum yatağı ince, düz ve bastırılmış olmalıdır. Taban suyu yüksek, ağır topraklar uygun değildir.
+> Önemli: Anız yakmak yasaktır; toprağın organik maddesini ve faydalı canlıları yok eder.
+
+## Çeşit ve Tohumluk
+Yemlik veya maltlık kullanım amacına uygun, soğuğa dayanıklı tescilli çeşitlerin sertifikalı tohumluğu kullanılmalıdır. Arpa kış soğuklarına buğdaydan daha hassas olduğundan kışlık ekimde soğuğa dayanıklılık önemlidir.
+Tohumlar çizgili yaprak lekesi ve rastık hastalıklarına karşı ilaçlanmalıdır.
+
+## Ekim
+- **Zaman:** Eylül sonu–ekim başı; buğdaydan biraz önce
+- **Tohum miktarı:** Dekara 16–20 kg
+- **Derinlik:** 3–5 cm
+- **Yöntem:** Mibzerle sıraya ekim
+
+## Gübreleme
+Fosforun tamamı ve azotun bir kısmı ekimde, kalan azot ilkbaharda kardeşlenme döneminde verilmelidir. Maltlık arpada fazla azot tanede protein oranını yükselterek kaliteyi düşürür.
+
+## Hastalık ve Zararlılar
+Yabancı ot mücadelesi kardeşlenme döneminde yapılmalıdır.
+- **Yaprak lekeleri:** Ağ ve çizgili yaprak lekesine karşı dayanıklı çeşit ve tohum ilaçlaması
+- **Rastık:** Tohum ilaçlaması ile önlenir
+- **Süne ve ekin kambur böceği:** Müdürlüğümüzün uyarılarına göre mücadele edilir
+
+## Hasat
+Arpa buğdaydan 7–10 gün önce, haziran sonu–temmuz başında hasat edilir. Fazla kuruyan başaklar kırılıp döküleceğinden hasat geciktirilmemelidir. Maltlık arpada dane kırılmasını önlemek için biçerdöver ayarı önemlidir.
+
+## Ekim Nöbeti ve Değerlendirme
+Arpa, baklagillerden sonra ekildiğinde daha az gübreyle yüksek verim verir. Hasattan sonra saman, hayvan yemi olarak değerlendirilir; bu nedenle anız yakılmamalı, saman balyalanmalıdır. Maltlık arpa yetiştirenler, alıcı firmalarla sözleşmeli üretim yaparak satış güvencesi elde edebilir.
+
+## Sık Yapılan Hatalar
+- **Maltlık arpaya fazla azot:** Protein yükselir, malt kalitesi düşer
+- **Hasadı geciktirmek:** Başaklar kırılıp dökülür
+- **İlaçsız tohum ekmek:** Rastık ve yaprak lekeleri artar
+- **Her yıl aynı tarlaya tahıl ekmek:** Hastalık ve zararlılar birikir
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Nadas toprak işleme: 4-6
+Tohum yatağı hazırlığı: 9
+Ekim: 9-10
+Üst gübre (azot): 3
+Yabancı ot mücadelesi: 3-4
+Hastalık takibi: 4-5
+Hasat: 6-7

@@ -1,0 +1,63 @@
+﻿# BUĞDAY
+Yetiştiriciliği
+
+## İç Anadolu ve Buğday
+İç Anadolu, Türkiye'nin tahıl ambarıdır. Bölgede buğday büyük ölçüde kuru koşullarda, nadas–buğday sistemiyle yetiştirilir. Verimi en çok etkileyen faktörler ekim zamanı, tohumluk kalitesi ve toprak nemidir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Eylül sonu–ekim |
+| Tohum | 18–22 kg/da |
+| Derinlik | 3–5 cm |
+| Üst gübre | Kardeşlenme sonu–sapa kalkma |
+| Hasat | Dane nemi %13'ün altında |
+
+## Toprak Hazırlığı ve Nadas
+Nadas alanlarında toprak ilkbaharda işlenmeli, yaz boyunca yabancı otlar temizlenerek yağış suyu toprakta biriktirilmelidir. Ekim öncesi tohum yatağı ince ve bastırılmış olmalıdır.
+> Önemli: Anız yakmak yasaktır; toprağın organik maddesini ve faydalı canlıları yok eder.
+
+## Çeşit ve Tohumluk
+Bölgeye uygun, kurağa ve soğuğa dayanıklı tescilli çeşitlerin sertifikalı tohumluğu kullanılmalıdır. Bölgeniz için önerilen çeşitleri Müdürlüğümüzden öğrenebilirsiniz.
+Tohumlar sürme ve rastık hastalıklarına karşı mutlaka ilaçlanmalıdır.
+
+## Ekim
+- **Zaman:** Eylül sonu–ekim; toprak nemi uygun olduğunda
+- **Tohum miktarı:** Dekara 18–22 kg (bin dane ağırlığına göre)
+- **Derinlik:** 3–5 cm
+- **Yöntem:** Serpme yerine mibzerle sıraya ekim
+
+## Gübreleme
+Fosforlu gübrenin tamamı ekimle birlikte tohum altına verilmelidir. Azotun bir kısmı ekimde, kalanı ilkbaharda kardeşlenme sonu–sapa kalkma başında verilmelidir. Miktarlar toprak analizine göre belirlenmelidir.
+
+## Hastalık ve Zararlılar
+Yabancı otlarla mücadele ilkbaharda kardeşlenme döneminde yapılmalıdır.
+- **Süne:** Tane kalitesini düşürür; mücadele Müdürlüğümüzün sayım ve uyarılarına göre yapılır.
+- **Sarı pas:** Serin ve nemli ilkbaharlarda yapraklarda sarı çizgiler oluşturur; dayanıklı çeşit kullanılmalıdır.
+- **Ekin kambur böceği:** Fideleri keser; ekim nöbeti uygulanmalıdır.
+- **Sürme ve rastık:** Tohum ilaçlaması ile önlenir.
+
+## Hasat
+Hasat, dane nemi %13'ün altına düştüğünde (haziran sonu–temmuz) yapılmalıdır. Biçerdöver ayarları kontrol edilerek dane kırılması ve kayıplar en aza indirilmelidir. Ürün kuru ve temiz depolarda saklanmalıdır.
+
+## Ekim Nöbeti ve Depolama
+Sürekli buğday ekimi hastalık, zararlı ve yabancı otları artırır. Uygun alanlarda nadas yerine nohut, mercimek gibi baklagillerle ekim nöbeti yapılması toprağı zenginleştirir ve sonraki buğdayın verimini yükseltir.
+Ürün, dane nemi %12–13'ün altına indikten sonra temiz, kuru ve havadar depolarda saklanmalı; depo zararlılarına karşı düzenli kontrol edilmelidir.
+
+## Sık Yapılan Hatalar
+- **Serpme ekim ve fazla tohum:** Çıkış düzensiz olur, maliyet artar
+- **İlaçsız tohum ekmek:** Sürme ve rastık verimi düşürür
+- **Anız yakmak:** Yasaktır, toprağı fakirleştirir
+- **Hasadı geciktirmek:** Dane dökülmesi ve kayıp artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Nadas toprak işleme: 4-6
+Tohum yatağı hazırlığı: 9
+Ekim: 9-10
+Taban gübresi: 9-10
+Üst gübre (azot): 3-4
+Yabancı ot mücadelesi: 4
+Süne ve hastalık takibi: 4-6
+Hasat: 6-7

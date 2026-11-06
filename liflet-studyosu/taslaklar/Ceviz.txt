@@ -1,0 +1,56 @@
+﻿# CEVİZ
+Yetiştiriciliği
+
+## Cevizin Önemi
+Ceviz uzun ömürlü, değerli bir meyve ve kereste ağacıdır. Kırşehir'in Kaman ilçesinde geliştirilen yerli çeşitler, İç Anadolu'nun ceviz yetiştiriciliğine uygunluğunu gösterir. Kapama bahçelerde doğru çeşit ve bakım ile erken ve düzenli verim alınabilir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Dikim aralığı | 7×7 – 10×10 m (çeşide göre) |
+| Tozlanma | Tozlayıcı çeşit gerekli |
+| En büyük risk | İlkbahar geç donları |
+| Hasat | Eylül–ekim |
+| Kurutma | Gölgede, iç nemi %8'in altına |
+
+## İklim ve Toprak
+Ceviz kış soğuklarına dayanıklıdır, ancak yeni sürgün ve çiçekler ilkbahar geç donlarından zarar görür. Bu nedenle İç Anadolu'da geç yapraklanan çeşitler tercih edilmelidir.
+Kökleri derine indiğinden derin, süzek, organik maddece zengin topraklar ister. Taban suyu yüksek ve su tutan topraklarda kök çürüklüğü görülür.
+
+## Çeşit ve Tozlanma
+Bölgeye uygun, geç yapraklanan ve yan dallarda meyve veren tescilli çeşitler seçilmelidir. Cevizde erkek ve dişi çiçekler çoğu zaman farklı zamanlarda olgunlaşır (dikogami). Bu nedenle bahçeye çiçeklenmesi uyumlu tozlayıcı çeşitler mutlaka dikilmelidir.
+
+## Dikim ve Budama
+Aşılı fidanlarla bahçe kurulmalıdır. Çöğürden yetişen ağaçlar geç meyveye yatar ve meyve kalitesi farklılık gösterir.
+Ceviz kış sonunda budandığında kesik yerlerinden özsu akıtır. Budama yaz sonu veya hasattan sonra sonbaharda yapılmalı, büyük kesitler macunla kapatılmalıdır.
+
+## Gübreleme ve Sulama
+Gübreleme toprak ve yaprak analizine göre yapılmalıdır. Damla sulama ile özellikle meyve büyüme ve iç dolum döneminde (haziran–ağustos) su stresi önlenmelidir; susuz kalan ağaçlarda iç dolgunluğu azalır.
+
+## Hastalık ve Zararlılar
+- **Bakteriyel yanıklık:** Yaprak, sürgün ve meyvede siyah lekeler oluşturur; yağışlı ilkbaharda bakırlı preparatlarla koruyucu mücadele yapılır.
+- **Antraknoz:** Yapraklarda kahverengi lekeler ve erken yaprak dökümüne neden olur.
+- **İçkurdu:** Meyveye girerek iç kalitesini bozar; feromon tuzaklarıyla takip edilmelidir.
+- **Yaprak bitleri:** Bal özü salgılayarak yaprak ve meyveleri kirletir.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat ve Kurutma
+Yeşil kabukların çatlamaya başladığı dönemde (eylül–ekim) hasat edilir. Yeşil kabuk bekletilmeden soyulmalı, cevizler temiz suyla yıkanıp gölgede, havadar bir yerde kurutulmalıdır. Kurutulan ürün serin ve kuru depolarda saklanmalıdır.
+İyi kurutulmuş ceviz, kabuklu olarak serin ve kuru ortamda bir yıla kadar kalitesini korur. İç ceviz ise ışıktan ve sıcaktan korunarak, tercihen soğukta saklanmalıdır; aksi hâlde acılaşır.
+
+## Sık Yapılan Hatalar
+- **Tek çeşitle bahçe kurmak:** Tozlanma yetersiz kalır, verim düşer
+- **Kış sonunda budamak:** Özsu akar, ağaç zayıflar
+- **Cevizi güneşte kurutmak:** İç kararır, kalite düşer
+- **Çöğür fidan dikmek:** Geç verim ve değişken kalite
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Gübreleme: 3-4, 11
+Çiçeklenme ve don takibi: 4-5
+Bakteriyel yanıklık mücadelesi: 4-6
+İçkurdu takibi: 5-8
+Sulama: 5-9
+Hasat: 9-10
+Budama: 9-10

@@ -1,0 +1,71 @@
+﻿# ANKARA ARMUDU
+Yetiştiriciliği
+
+## Çeşit Özellikleri
+Ankara armudu, Türkiye'nin en bilinen yerli kışlık armut çeşididir. Meyveleri iri, sarımsı yeşil kabuklu, sulu ve aromatiktir; depoda olgunlaşarak kışın ve ilkbaharda pazara sunulur. Bu özelliği üreticiye geç sezonda iyi fiyat avantajı sağlar.
+> Biliyor musunuz? Ankara armudu dalda değil, depoda olgunlaşır. Erken hasat edilen meyve depoda buruşur; geç hasat edilen meyvenin ise depo ömrü kısalır.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Çeşit tipi | Kışlık, depoda olgunlaşır |
+| Dikim aralığı | En az 6×6 m (çöğür anacı) |
+| Tozlayıcı | Zorunlu (kendine kısır) |
+| Hasat | Eylül sonu–ekim |
+| Depolama | -1 / 0°C, %90–95 nem |
+
+## İklim İstekleri
+Armut ağaçları kış soğuklarına dayanıklıdır; dinlenme döneminde -25°C'ye kadar dayanabilir. İlkbahar geç donlarına ise hassastır: tam çiçeklenmede -2°C civarındaki sıcaklıklar çiçeklere zarar verebilir. Bahçe, soğuk havanın biriktiği çukur alanlara kurulmamalıdır.
+Soğuklanma ihtiyacı yüksektir (1000–1200 saat). Yıllık 600–700 mm yağış alan veya sulama imkânı bulunan yerlerde başarıyla yetişir.
+
+## Toprak İstekleri
+Derin, geçirgen, su tutma kapasitesi iyi, organik maddece zengin tınlı ve tınlı-killi toprakları sever. Çöğür anacı üzerindeki ağaçlar için toprak derinliği en az 1,5 m olmalıdır. Taban suyu yüksek ve aşırı kireçli topraklardan kaçınılmalıdır.
+
+## Dikim
+Bahçe tesisinden önce mutlaka toprak analizi yaptırılmalı, taban gübrelemesi analiz sonucuna göre yapılmalıdır. Fidan çukurları en az 60×60×70 cm boyutlarında açılmalıdır.
+Ankara armudu kuvvetli gelişen çöğür anaçları üzerinde yetiştirildiğinden dikim mesafesi en az 6×6 m olmalıdır. Fidanlar aşı yeri toprak seviyesinden 5–10 cm yukarıda kalacak ve hâkim rüzgâr yönüne bakacak şekilde dikilmelidir.
+
+## Döllenme
+Ankara armudu kendine kısırdır; tek başına dikildiğinde meyve tutmaz. Bahçede aynı dönemde çiçeklenen tozlayıcı çeşitlere mutlaka yer verilmelidir.
+- **Tozlayıcılar:** Akça, Williams ve Santa Maria gibi çiçeklenme dönemi uyumlu çeşitler
+- **Oran:** Her üçüncü sırada, sıra üzerindeki her üçüncü ağaç tozlayıcı olmalıdır
+- **Arı:** Çiçeklenmede bahçeye arı kovanı konulması meyve tutumunu artırır
+
+## Budama
+İlk 3–4 yılda ağacın iskeletini oluşturmak için şekil budaması (genellikle modifiye lider sistemi) yapılır; ana dallar gövdeyle geniş açı yapacak şekilde seçilir.
+Verim çağındaki ağaçlarda her yıl ışıklandırma ve ürün budaması yapılmalı; kurumuş, hastalıklı, birbirinin üzerine binen ve dikine gelişen obur dallar çıkarılmalıdır. Bol çiçeklenen yıllarda salkımda 1–2 meyve bırakılarak seyreltme yapılması meyve iriliğini artırır ve ertesi yılın verimini korur.
+> İpucu: Büyük kesitler aşı macunu ile kapatılmalı, budama aletleri ağaçtan ağaca geçerken dezenfekte edilmelidir.
+
+## Gübreleme ve Sulama
+Gübreleme toprak ve yaprak analizine göre planlanmalıdır. Çiftlik gübresi, fosfor ve potasyum sonbaharda; azot ilkbaharda bölünerek verilmelidir. Depo ömrünü uzatmak ve meyve eti bozulmalarını önlemek için kalsiyum uygulamaları önemlidir.
+Damla sulama tercih edilmeli, meyve büyüme döneminde (haziran–ağustos) toprak nemi korunmalıdır. Hasada yakın dönemde aşırı sulamadan kaçınılmalıdır.
+
+## Hastalık ve Zararlılar
+- **Ateş yanıklığı:** Belirti görülen dallar sağlam kısımdan en az 30–40 cm aşağıdan kesilip imha edilmelidir.
+- **Armut psillidi:** Sürgünlerde ballı madde ve fumajine yol açar; düzenli gözlem yapılmalıdır.
+- **Elma içkurdu:** Meyveye zarar verir; feromon tuzaklarıyla takip edilmelidir.
+- **Karaleke:** Yaprak ve meyvede leke oluşturur; yağışlı ilkbaharlarda koruyucu ilaçlama önemlidir.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat ve Depolama
+Eylül sonu–ekim ayında, meyve eti sertliği ve nişasta testine göre hasat edilir. Meyveler ezilmeden, saplarıyla birlikte toplanmalıdır.
+Hasat edilen meyveler bekletilmeden soğuk hava deposuna alınmalıdır. Uygun koşullarda (-1 / 0°C, %90–95 nem) uzun süre kalitesini koruyarak depolanabilir.
+
+## Sık Yapılan Hatalar
+- **Tozlayıcı çeşit dikmemek:** Ankara armudu meyve tutmaz
+- **Erken hasat:** Meyveler depoda buruşur, tat kazanmaz
+- **Aletleri dezenfekte etmemek:** Ateş yanıklığı ağaçtan ağaca taşınır
+- **Analizsiz aşırı azot:** Hastalık ve depo bozuklukları artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Kış budaması: 1-3
+Kış ilaçlaması: 2-3
+Gübreleme: 3-5, 11
+Çiçeklenme ve don takibi: 4
+Zararlı takibi: 4-8
+Meyve seyreltme: 6
+Sulama: 5-9
+Hasat: 9-10
+Depolama: 10-3

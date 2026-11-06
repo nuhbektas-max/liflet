@@ -1,0 +1,59 @@
+﻿# PATATES
+Yetiştiriciliği
+
+## İç Anadolu'da Patates
+Niğde ve Nevşehir, Türkiye'nin en önemli patates üretim merkezleri arasındadır. Bölgenin serin gece sıcaklıkları kaliteli yumru oluşumu için uygundur; Kapadokya'nın doğal kaya depoları ürünün uzun süre saklanmasını sağlar.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Dikim | Nisan–mayıs (toprak 8–10°C) |
+| Aralık | 70–75 × 30–35 cm |
+| Tohumluk | Sertifikalı, 40–60 g |
+| Hasat | Eylül–ekim |
+| Depolama | 4–6°C, karanlık |
+
+## İklim ve Toprak
+Patates serin iklim bitkisidir; yumru oluşumu için ideal sıcaklık 15–20°C'dir, 30°C'nin üzerindeki sıcaklıklar yumru gelişimini yavaşlatır. Dona karşı hassastır.
+Hafif bünyeli, kumlu–tınlı, süzek ve derin topraklar idealdir. Ağır ve su tutan topraklarda yumrular şekil bozukluğu gösterir.
+Toprak kökenli hastalık ve zararlıların birikmemesi için aynı tarlaya en az 3–4 yıl arayla patates dikilmelidir; tahıllar iyi bir ön bitkidir.
+
+## Tohumluk ve Dikim
+- **Tohumluk:** Sertifikalı, hastalıksız, 40–60 g ağırlığında yumrular
+- **Ön çimlendirme:** Dikimden 2–3 hafta önce aydınlık ve ılık ortamda
+- **Zaman:** Toprak sıcaklığı 8–10°C'ye ulaştığında (nisan–mayıs)
+- **Aralık:** Sıra arası 70–75 cm, sıra üzeri 30–35 cm, derinlik 8–12 cm
+> Önemli: Patates siğili gibi karantina hastalıklarının yayılmasını önlemek için yalnızca sertifikalı tohumluk kullanılmalıdır.
+
+## Bakım
+Bitkiler 15–20 cm boylandığında boğaz doldurma yapılmalıdır; böylece yumrular güneşte yeşillenmez ve verim artar. Gübreleme toprak analizine göre yapılmalıdır; patatesin potasyum ihtiyacı yüksektir.
+Yumru bağlama ve büyüme döneminde sulama aksatılmamalıdır. Düzensiz sulama yumru çatlamasına ve şekil bozukluklarına yol açar.
+
+## Hastalık ve Zararlılar
+- **Patates mildiyösü:** Serin ve nemli havalarda hızla yayılır; tahmin–uyarı bildirimlerine göre koruyucu ilaçlama yapılmalıdır.
+- **Erken yaprak yanıklığı:** Yapraklarda iç içe halkalı kahverengi lekeler oluşturur.
+- **Patates böceği:** Yaprakları yiyerek bitkiyi çıplak bırakır.
+- **Patates güvesi:** Tarlada ve depoda yumrulara zarar verir.
+
+## Hasat ve Depolama
+Yapraklar sararıp kuruduğunda hasat edilir. Kabuğun olgunlaşması için hasattan 10–15 gün önce sapların kurutulması önerilir. Yumrular yaralanmadan sökülmeli, güneşte bekletilmemelidir.
+Depolama 4–6°C sıcaklıkta, %90–95 nemli ve karanlık ortamda yapılmalıdır.
+Depoya girmeden önce yaralı, çürük ve yeşillenmiş yumrular ayıklanmalıdır. Depo öncesi temizlenmeli ve havalandırılmalı, depolama süresince çürüyen yumrular düzenli olarak kontrol edilmelidir.
+
+## Sık Yapılan Hatalar
+- **Kendi ürününü tohumluk yapmak:** Hastalık birikir, verim düşer
+- **Boğaz doldurmamak:** Yumrular yeşillenir ve acılaşır
+- **Düzensiz sulama:** Yumrular çatlar, şekli bozulur
+- **Söküm sonrası güneşte bekletmek:** Yeşillenme ve çürüme artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Toprak hazırlığı: 3-4
+Ön çimlendirme: 3-4
+Dikim: 4-5
+Boğaz doldurma: 5-6
+Sulama: 6-8
+Mildiyö takibi: 6-8
+Hasat: 9-10
+Depolama: 10-3

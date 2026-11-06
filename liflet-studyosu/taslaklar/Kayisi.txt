@@ -1,0 +1,72 @@
+﻿# KAYISI
+Yetiştiriciliği
+
+## Kayısının Önemi
+Kayısı, sofralık ve kurutmalık olarak değerlendirilen, ekonomik değeri yüksek bir meyvedir; Türkiye kuru kayısı üretiminde dünya lideridir. İç Anadolu'da don riskinin düşük olduğu vadi ve yamaçlarda başarıyla yetiştirilir.
+> Biliyor musunuz? Kayısı çok erken çiçeklendiği için verimi en çok ilkbahar geç donları belirler. Doğru yer seçimi, en iyi gübrelemeden daha önemlidir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Anaç | Zerdali (kayısı çöğürü) |
+| Dikim aralığı | 6×6 – 7×7 m |
+| En büyük risk | İlkbahar geç donları |
+| Seyreltme | Meyveler arası 5–8 cm |
+| Hasat | Haziran–temmuz |
+
+## İklim İstekleri
+Kayısı sıcak ve kurak yazları sever; yaz yağışları ve yüksek nem hastalıkları artırır. Kış soğuklarına dayanıklıdır, ancak çiçek ve küçük meyveler -1 / -2°C'de zarar görebilir.
+Bahçe, soğuk havanın biriktiği çukur ve düz ovalara değil; hava akışı olan, güneye bakmayan hafif eğimli yamaçlara kurulmalıdır. Kuzey bakılı yamaçlarda çiçeklenme birkaç gün gecikerek donlardan kaçılabilir.
+
+## Toprak İstekleri
+Derin, süzek, hafif ve orta bünyeli topraklar idealdir. Kireçli topraklara iyi uyum sağlar. Taban suyu yüksek, ağır ve su tutan topraklarda kök boğazı çürüklüğü ve zamklanma artar.
+
+## Anaç, Çeşit ve Dikim
+Türkiye'de en yaygın anaç zerdalidir (kayısı çöğürü); kurağa ve kirece dayanıklıdır. Ağır topraklarda erik anaçları tercih edilebilir.
+- **Kurutmalık çeşitler:** Hacıhaliloğlu, Kabaaşı, Çataloğlu, Soğancı
+- **Sofralık çeşitler:** Şekerpare, Hasanbey, Tokaloğlu
+- **Tozlanma:** Bazı çeşitler kendine kısırdır; fidan alırken tozlayıcı ihtiyacını mutlaka sorun
+- **Dikim aralığı:** Zerdali anacında 6×6 – 7×7 m
+
+## Budama ve Seyreltme
+Kayısıda genellikle goble (vazo) şekli verilir; ağacın içi açık tutularak ışıklanma ve hava akışı sağlanır. Kayısı yaralanmaya ve zamklanmaya hassas olduğundan budama kuru havada yapılmalı, büyük kesitler macunla kapatılmalıdır.
+Meyve tutumunun yüksek olduğu yıllarda seyreltme yapılmalı, meyveler arasında 5–8 cm mesafe bırakılmalıdır. Böylece meyve iriliği artar ve dallar kırılmaz.
+
+## Gübreleme ve Sulama
+Gübreleme toprak ve yaprak analizine göre yapılmalıdır. Çiftlik gübresi ve fosfor sonbaharda, azot ilkbaharda bölünerek verilmelidir. Fazla azot sürgün büyümesini artırır, dona ve hastalıklara hassasiyeti yükseltir.
+Damla sulama tercih edilmelidir. Meyve büyüme döneminde ve hasattan sonra gelecek yılın çiçek gözlerinin oluştuğu yaz aylarında su stresi verilmemelidir.
+
+## Don Mücadelesi
+- **Yer seçimi:** En etkili önlemdir; don çukurlarına bahçe kurulmamalıdır
+- **Sisleme ve rüzgâr makineleri:** Radyasyon donlarında bahçe sıcaklığını birkaç derece yükseltir
+- **Sulama:** Don öncesi nemli toprak daha fazla ısı depolar
+- **Uyarılar:** Meteoroloji ve Müdürlüğümüzün don uyarıları takip edilmelidir
+
+## Hastalık ve Zararlılar
+- **Monilya:** Çiçek ve sürgünleri kurutur, meyvede çürüklük yapar; yağışlı çiçeklenme döneminde koruyucu ilaçlama yapılmalıdır.
+- **Çil hastalığı:** Yaprak, sürgün ve meyvede kırmızı kenarlı lekeler oluşturur; yaprak dökümünde ve gözler uyanırken mücadele edilir.
+- **Zamklanma:** Yaralar, don ve hastalıklar sonrası gövde ve dallardan zamk akar; yaralanmadan kaçınılmalıdır.
+- **Yaprak bitleri ve kabuklu bitler:** Sürgünleri zayıflatır; düzenli gözlem yapılmalıdır.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat ve Kurutma
+Sofralık kayısı, meyve kendine özgü rengini aldığında ve eti henüz sertken haziran–temmuz aylarında hasat edilir. Kurutmalık kayısı ağaç üzerinde tam olgunlaşınca toplanır.
+Kurutma; temiz, tozsuz sergilerde, hayvanlardan ve nemden korunarak yapılmalıdır. Kurutulan ürün serin, kuru ve havadar depolarda saklanmalıdır.
+
+## Sık Yapılan Hatalar
+- **Don çukuruna bahçe kurmak:** Her yıl çiçekler dondan zarar görür
+- **Yağmurlu havada budama:** Monilya ve zamklanma artar
+- **Fazla azot vermek:** Dona ve hastalıklara hassasiyet artar
+- **Kurutmayı toprak üzerinde yapmak:** Ürün kirlenir ve kalitesi düşer
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Budama: 2-3, 8
+Gübreleme: 3-4, 11
+Çiçeklenme ve don takibi: 3-4
+Monilya ilaçlaması: 3-4
+Meyve seyreltme: 5
+Sulama: 5-8
+Hasat: 6-7
+Çil ilaçlaması: 10-11

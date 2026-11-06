@@ -1,0 +1,47 @@
+﻿# ZİRAİ DON
+Korunma Yolları
+
+## Zirai Don Nedir?
+İlkbaharda bitkilerin uyanıp çiçeklendiği dönemde sıcaklığın sıfırın altına düşmesiyle oluşan zarardır. İç Anadolu'da meyve üretiminde en büyük verim kaybı nedenlerinden biridir.
+- **Radyasyon donu:** Açık, rüzgârsız gecelerde topraktan ısı kaybıyla oluşur; önlemlerle büyük ölçüde korunulabilir
+- **Adveksiyon donu:** Soğuk hava kütlesinin rüzgârla gelmesiyle oluşur; korunmak çok zordur
+
+## Bir Bakışta
+| Dönem | Kritik sıcaklık (yaklaşık) |
+| Çiçek tomurcuğu (pembe–beyaz) | -3 / -4°C |
+| Tam çiçeklenme | -2°C |
+| Küçük meyve | -1 / -2°C |
+| En riskli saatler | Gün doğumundan hemen önce |
+
+## Önceden Alınacak Önlemler
+- **Yer seçimi:** Soğuk havanın biriktiği çukur alanlara bahçe kurulmamalıdır
+- **Çeşit seçimi:** Geç çiçeklenen çeşitler tercih edilmelidir
+- **Toprak:** Don riski olan dönemde toprak işlenmemeli; nemli ve sıkı toprak daha fazla ısı depolar
+- **Bahçe tabanı:** Otlar kısa biçilmiş tutulmalıdır
+- **Sigorta:** Ürünler Tarım Sigortaları (TARSİM) kapsamında don riskine karşı sigortalatılmalıdır
+Bahçe çevresindeki ağaç sıraları ve duvarlar soğuk havanın akışını engelleyerek bahçede birikmesine yol açabilir; soğuk hava akışının önünü kesen engeller kaldırılmalıdır.
+
+## Don Gecesi Yapılacaklar
+- **Rüzgâr makineleri:** Üstteki sıcak hava tabakasını aşağı indirir
+- **Yağmurlama ile koruma:** Su donarken açığa çıkan ısı çiçekleri korur; sulama don bitene ve buz eriyene kadar kesilmeden sürdürülmelidir
+- **Sisleme ve ısıtıcılar:** Küçük alanlarda sıcaklık kaybını azaltır
+> Dikkat: Yağmurlama ile don korumasına başlandıktan sonra sulamanın yarıda kesilmesi zararı artırır.
+
+## Don Uyarılarını Takip Edin
+Meteoroloji ve Müdürlüğümüzün zirai don uyarıları takip edilmeli, don beklenen gecelerde önlemler önceden hazırlanmalıdır.
+
+## Dondan Sonra
+Zarar, 2–3 gün sonra çiçek ve meyveler kesilerek kontrol edilmelidir; kararmış dişicik zarar gördüğünü gösterir. Telaşla budama ve gübreleme yapılmamalı, kalan ürüne göre bakım planlanmalıdır. Sigortalı ürünlerde hasar zamanında bildirilmelidir.
+
+## Sık Yapılan Hatalar
+- **Don çukuruna bahçe kurmak:** Her yıl ürün kaybı
+- **Don gecesi toprak işlemek:** Toprak ısı tutamaz, risk artar
+- **Yağmurlamayı yarıda kesmek:** Zarar artar
+- **Sigorta yaptırmamak:** Kayıp karşılanamaz
+
+## Don Riski Takvimi
+[takvim]
+Sigorta işlemleri: 12-3
+Don uyarılarını takip: 3-5
+Çiçeklenme dönemi: 4-5
+Hasar kontrolü: 4-5

@@ -1,0 +1,38 @@
+﻿# ÜRÜN ADI
+Yetiştiriciliği
+
+## Giriş
+Bu satır sıradan bir paragraftır. Ürünün bölge için önemini 2-3 cümleyle anlatın.
+> Biliyor musunuz? ">" ile başlayan satır renkli bilgi kutusu olur. "Önemli:", "Not:", "Dikkat:", "İpucu:" ile başlayan satırlar da otomatik bilgi kutusu olur.
+
+## İklim ve Toprak
+"## " ile başlayan satır bölüm başlığıdır; konusuna göre otomatik ikon alır (iklim, toprak, dikim, budama, sulama, gübre, hastalık, hasat...).
+### Alt başlık
+"### " ile başlayan satır alt başlıktır.
+
+## Ekim / Dikim
+- **Zaman:** "- " ile başlayan satırlar madde listesi olur
+- **Aralık:** "Kalın kısım:" iki nokta ile ayrılırsa otomatik kalın yazılır
+- **Derinlik:** 3–5 cm
+
+## Örnek Tablo
+| Dönem | Yapılacak iş |
+| Kış | Budama |
+| İlkbahar | Gübreleme |
+
+## Bakım Takvimi
+[takvim]
+Budama: 1-3
+Gübreleme: 3-5, 11
+Sulama: 5-9
+Hasat: 9-10
+
+## Bölgemizde Yetişen Ürünler
+[ikonlar: armut, elma, üzüm, buğday, nohut]
+
+[iletişim]
+Detaylı bilgi için Müdürlüğümüze başvurunuz
+Kurum adı
+Adres satırı
+Tel: 0000 000 00 00
+E-posta: ornek@kurum.gov.tr

@@ -1,0 +1,52 @@
+﻿# DAMLA SULAMA
+Suyu Tasarruflu Kullanalım
+
+## Neden Damla Sulama?
+İç Anadolu'da su, tarımın en değerli ve en sınırlı kaynağıdır. Damla sulama, suyu doğrudan bitkinin kök bölgesine vererek salma sulamaya göre büyük ölçüde su tasarrufu sağlar. Gübre de sulama suyuyla birlikte verilebilir.
+> Biliyor musunuz? Damla sulamada yaprak ve sıra araları kuru kaldığı için yabancı ot ve mantar hastalıkları da azalır.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Su tasarrufu | Salma sulamaya göre önemli ölçüde |
+| Gübreleme | Su ile birlikte (fertigasyon) |
+| En önemli parça | Filtre |
+| Sulama saati | Sabah erken veya akşam |
+| Kışa hazırlık | Hatları boşaltma |
+
+## Sistemin Parçaları
+- **Su kaynağı ve pompa:** Kuyu, depo veya kanal
+- **Filtre ünitesi:** Kum-çakıl, elek veya disk filtre; tıkanmayı önler
+- **Gübre tankı:** Gübrenin suyla verilmesini sağlar
+- **Ana ve yan borular:** Suyu tarlaya taşır
+- **Damlatıcılı lateraller:** Suyu bitki dibine damla damla verir
+- **Manometre ve vanalar:** Basıncın kontrolü için
+
+## Kurulum
+Sistem; toprak yapısı, bitki türü, su kaynağı ve arazi eğimine göre projelendirilmelidir. Hafif (kumlu) topraklarda damlatıcılar daha sık, ağır topraklarda daha seyrek yerleştirilir. Eğimli arazilerde basınç ayarlı damlatıcılar tercih edilmelidir.
+
+## Ne Zaman, Ne Kadar Sulanmalı?
+Sulama, toprak nemi kontrol edilerek yapılmalıdır. Kök bölgesinden alınan toprak avuçta sıkıldığında dağılıyorsa sulama zamanı gelmiştir. Sık aralıklarla ve kısa süreli sulama, kök bölgesini sürekli nemli tutar.
+Sulama süresi; bitkinin gelişme dönemine, havanın sıcaklığına ve toprağın su tutma gücüne göre ayarlanmalıdır. Meyve büyüme ve çiçeklenme dönemleri suyun en kritik olduğu zamanlardır. Gübre suyla verilirken önce bir süre temiz su, sonra gübreli su, en son yine temiz su verilerek hatların temizlenmesi sağlanmalıdır.
+
+## Bakım
+- Filtreler sulama sezonunda düzenli olarak temizlenmelidir
+- Lateral uçları açılarak hatlar belirli aralıklarla yıkanmalıdır
+- Kireç tıkanmalarında uygun asitle temizlik uzman önerisiyle yapılmalıdır
+- Kış gelmeden borulardaki su boşaltılmalı, hatlar korunaklı yerde saklanmalıdır
+
+## Destekler
+Basınçlı sulama sistemlerinin kurulumu için sunulan hibe ve kredi destekleri hakkında Müdürlüğümüzden bilgi alabilirsiniz.
+
+## Sık Yapılan Hatalar
+- **Filtre kullanmamak veya temizlememek:** Damlatıcılar kısa sürede tıkanır
+- **Projesiz kurulum:** Hat başı ve sonu farklı su alır
+- **Öğle sıcağında sulamak:** Buharlaşma kaybı artar
+- **Kışın hatlarda su bırakmak:** Borular donup patlar
+
+## Sulama Sezonu Takvimi
+[takvim]
+Sistem kontrolü: 3-4
+Filtre temizliği: 4-9
+Sulama sezonu: 5-9
+Hat yıkama: 6, 8
+Kışa hazırlık: 10-11

@@ -1,0 +1,56 @@
+﻿# ŞEKER PANCARI
+Yetiştiriciliği
+
+## Önemi
+İç Anadolu, Türkiye şeker pancarı üretiminin önemli bir bölümünü karşılar. Pancar sözleşmeli olarak üretilip şeker fabrikalarına teslim edilir; yaprağı ve küspesi değerli bir hayvan yemidir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Mart sonu–nisan |
+| Aralık | 45 × 18–20 cm |
+| Ekim nöbeti | En az 4 yılda bir |
+| Sulama kesme | Sökümden 3–4 hafta önce |
+| Söküm | Eylül–kasım |
+
+## Toprak ve Ekim Nöbeti
+Derin, süzek, organik maddece zengin tınlı topraklar uygundur. Pancar kist nematodu ve toprak kökenli hastalıkların artmaması için aynı tarlaya en az 4 yılda bir ekilmelidir.
+Toprak sonbaharda derin sürülmeli, ilkbaharda ince ve düzgün bir tohum yatağı hazırlanmalıdır.
+
+## Ekim
+- **Zaman:** Toprak sıcaklığı 5–8°C'ye ulaştığında (mart sonu–nisan)
+- **Tohum:** Tek embriyolu (monogerm) draje tohum, hassas ekim makinesiyle
+- **Aralık:** Sıra arası 45 cm, sıra üzeri 18–20 cm
+- **Derinlik:** 2–3 cm
+
+## Bakım
+Erken dönemde yabancı otlarla mücadele ve çapa verimi önemli ölçüde artırır. Gübreleme toprak analizine göre yapılmalıdır; fazla azot kök verimini artırsa da şeker oranını düşürür.
+Yağmurlama veya damla sulama ile temmuz–ağustos aylarında su stresi önlenmelidir. Şeker birikimi için hasattan 3–4 hafta önce sulama kesilmelidir.
+
+## Hastalık ve Zararlılar
+- **Yaprak lekesi (Cercospora):** Sıcak ve nemli yaz dönemlerinde yaprakları kurutur.
+- **Rizomani:** Toprak kökenli virüs hastalığıdır; dayanıklı çeşit kullanılmalıdır.
+- **Pire böceği ve hortumlu böcek:** Çıkış döneminde fidelere zarar verir.
+- **Pancar kist nematodu:** Ekim nöbeti ile önlenir.
+> Önemli: İlaçlamalar Müdürlüğümüzün ve şeker fabrikası ziraat teşkilatının uyarılarına göre yapılmalıdır.
+
+## Hasat
+Söküm eylül–kasım aylarında, fabrikanın programına göre yapılır. Pancarlar yaralanmadan sökülmeli, baş ve yaprakları usulüne uygun kesilmeli, toprağı temizlenmelidir. Sökülen pancar güneşte ve uzun süre bekletilmemelidir.
+Fabrikada pancarın değeri, ağırlığının yanında şeker oranına (polar) göre belirlenir. Bu nedenle dengeli gübreleme ve zamanında sulama kesimi doğrudan gelir artışı sağlar.
+
+## Sık Yapılan Hatalar
+- **Kısa ekim nöbeti:** Kist nematodu ve rizomani artar
+- **Fazla azot:** Kök büyür ama şeker oranı düşer
+- **Sulamayı geç kesmek:** Şeker birikimi azalır
+- **Sökülen pancarı bekletmek:** Ağırlık ve şeker kaybı olur
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Sonbahar sürümü: 10-11
+Tohum yatağı: 3
+Ekim: 3-4
+Çapa ve yabancı ot: 5-6
+Sulama: 6-9
+Yaprak lekesi takibi: 7-8
+Hasat: 9-11

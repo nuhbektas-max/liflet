@@ -1,0 +1,51 @@
+﻿# AYÇİÇEĞİ
+Yetiştiriciliği
+
+## Ayçiçeğinin Önemi
+Ayçiçeği, Türkiye'nin en önemli yağ bitkisidir. İç Anadolu'da hem yağlık hem de çerezlik ayçiçeği yetiştirilir. Derin kök yapısı sayesinde kurağa görece dayanıklıdır ve tahıllarla iyi bir ekim nöbeti oluşturur.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Toprak 8–10°C olunca (nisan sonu–mayıs) |
+| Aralık | Sıra arası 70 cm, sıra üzeri 25–35 cm |
+| Derinlik | 4–6 cm |
+| En büyük sorun | Orobanş (canavar otu) |
+| Hasat | Eylül; dane nemi %9–10 |
+
+## Toprak ve Ekim Nöbeti
+Derin, süzek, tınlı topraklarda iyi gelişir. Hastalık ve orobanş tohumlarının birikmemesi için aynı tarlaya en az 4 yılda bir ekilmelidir.
+
+## Çeşit ve Ekim
+Yağlık veya çerezlik amaca uygun, orobanş ve mildiyöye dayanıklı tescilli hibrit çeşitlerin sertifikalı tohumluğu kullanılmalıdır.
+Ekim, toprak sıcaklığı 8–10°C'ye ulaştığında pnömatik mibzerle yapılmalıdır. Düzgün bitki sıklığı, verim ve tabla iriliği için önemlidir.
+
+## Bakım
+Erken dönemde çapa ve yabancı ot kontrolü verimi önemli ölçüde artırır. Gübreleme toprak analizine göre yapılmalıdır.
+Sulama imkânı varsa tabla oluşumu, çiçeklenme ve dane dolum dönemlerinde su verilmelidir. Ayçiçeğinde tozlanma için bal arıları çok önemlidir; tarla yakınında kovan bulunması verimi artırır.
+Çerezlik ayçiçeğinde dane iriliği pazar değerini belirler; bu nedenle bitki sıklığı yağlık çeşitlere göre biraz daha seyrek tutulmalı ve dane dolum döneminde su stresi verilmemelidir.
+
+## Hastalık ve Zararlılar
+- **Orobanş (canavar otu):** Köklere bağlanarak bitkinin besinini çalar; dayanıklı çeşit ve ekim nöbeti en etkili yöntemdir.
+- **Mildiyö:** Bitkilerde bodurluk ve yaprakta sararmaya neden olur; dayanıklı çeşit ve ilaçlı tohum kullanılmalıdır.
+- **Beyaz çürüklük:** Tabla ve gövdede çürüme yapar; sık ekim ve aşırı sulamadan kaçınılmalıdır.
+- **Kuş zararı:** Olgunluğa yakın dönemde tablalarda dane kaybına yol açar.
+
+## Hasat
+Tablanın arka yüzü sarı–kahverengi renge döndüğünde ve dane nemi %9–10'a düştüğünde biçerdöverle hasat edilir. Çerezlik çeşitlerde dane kırılmasını önlemek için biçerdöver ayarlarına dikkat edilmelidir.
+
+## Sık Yapılan Hatalar
+- **Her yıl ayçiçeği ekmek:** Orobanş ve hastalıklar tarlayı ele geçirir
+- **Dayanıklı olmayan çeşit:** Orobanşlı tarlada verim çok düşer
+- **Erken ve soğuk toprağa ekim:** Çıkış düzensiz olur
+- **Hasadı geciktirmek:** Kuş zararı ve dane dökülmesi artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Toprak hazırlığı: 3-4
+Ekim: 4-5
+Çapa ve yabancı ot: 5-6
+Sulama: 6-8
+Orobanş takibi: 6-7
+Hasat: 9

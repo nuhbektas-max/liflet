@@ -1,0 +1,66 @@
+﻿# ELMA
+Yetiştiriciliği
+
+## İç Anadolu'da Elma
+Niğde, Karaman ve Konya başta olmak üzere İç Anadolu, Türkiye'nin önemli elma üretim alanlarındandır. Yüksek rakım ve gece–gündüz sıcaklık farkı meyveye iyi renk, aroma ve depolama kalitesi kazandırır.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Anaç | M9 bodur; M26, MM106 yarı bodur |
+| Dikim | Kasım veya mart |
+| Tozlayıcı | En az iki uyumlu çeşit |
+| Hasat | Ağustos–ekim |
+| Depolama | 0–1°C, %90–95 nem |
+
+## İklim ve Toprak
+Elma kış soğuklarına dayanıklıdır, ancak ilkbahar geç donları çiçek ve küçük meyvelere zarar verir. Bahçe, soğuk havanın biriktiği çukur alanlara kurulmamalıdır.
+Derin, süzek, organik maddece zengin tınlı topraklar idealdir. Kireçli topraklarda demir eksikliğine bağlı yaprak sararması (kloroz) görülebilir.
+
+## Anaç ve Çeşit Seçimi
+Bodur (M9) ve yarı bodur (M26, MM106) klon anaçlar erken verime yatar ve bakımı kolaylaştırır. Bodur anaçlı bahçelerde tel–direk destek sistemi ve damla sulama zorunludur.
+- **Yaygın çeşitler:** Starking, Golden Delicious, Gala, Fuji, Granny Smith
+- **Tozlanma:** Çoğu elma çeşidi kendine kısırdır; aynı dönemde çiçeklenen en az iki çeşit birlikte dikilmelidir
+
+## Dikim ve Budama
+Dikim, sonbaharda yaprak dökümünden sonra veya ilkbaharda toprak tava geldiğinde yapılır. Bodur anaçlarda aşı yeri toprak yüzeyinin 10–15 cm üzerinde kalmalıdır.
+Bodur bahçelerde ince iğ (spindle), yarı bodurlarda modifiye lider terbiye sistemi uygulanır. Kış budaması şubat–mart aylarında, şiddetli don günleri dışında yapılmalıdır.
+
+## Meyve Seyreltme
+Ağacın taşıyabileceğinden fazla meyve, küçük ve kalitesiz ürüne ve ertesi yıl ürün düşmesine (periyodisite) yol açar. Haziran dökümünden sonra salkımda 1–2 meyve bırakılmalıdır.
+
+## Gübreleme ve Sulama
+Gübreleme toprak ve yaprak analizine göre yapılmalıdır. Acı benek gibi depo bozukluklarını önlemek için yaz boyunca yapraktan kalsiyum uygulanmalıdır.
+Damla sulama ile toprak nemi düzenli tutulmalı; özellikle meyve büyüme döneminde su stresi verilmemelidir.
+## Dolu ve Güneş Yanıklığı
+Dolu riskinin yüksek olduğu bölgelerde dolu ağları ürünü ve ağacı korur; ağlar aynı zamanda güneş yanıklığını da azaltır. Ağsız bahçelerde gövde ve kalın dalların kireç badanası ile korunması güneş yanığı ve kabuk çatlamalarını önler.
+
+## Hastalık ve Zararlılar
+- **Elma içkurdu:** En önemli zararlıdır; feromon tuzakları ve tahmin–uyarı bildirimlerine göre mücadele edilir.
+- **Karaleke:** Yağışlı ilkbaharlarda yaprak ve meyvede kara lekeler oluşturur.
+- **Külleme:** Sürgünlerde beyaz örtü oluşturur; hastalıklı sürgünler budamada çıkarılmalıdır.
+- **Ateş yanıklığı:** Hastalıklı dallar sağlam kısımdan kesilip imha edilmelidir.
+- **Kırmızı örümcek:** Sıcak ve kurak yazlarda yapraklarda bronzlaşmaya neden olur.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla yapılmalıdır.
+
+## Hasat ve Depolama
+Çeşide göre ağustos–ekim aylarında, nişasta–iyot testi ve meyve eti sertliğine bakılarak hasat edilir. Meyveler bekletilmeden 0–1°C ve %90–95 nemli soğuk hava depolarına alınmalıdır.
+Hasat edilen meyveler ezilmeden, saplı olarak toplanmalı; boylama ve sınıflandırma yapılarak ambalajlanmalıdır. Kaliteli ve boylanmış ürün pazarda daha yüksek fiyat bulur.
+
+## Sık Yapılan Hatalar
+- **Seyreltme yapmamak:** Meyveler küçük kalır, ertesi yıl ürün düşer
+- **Bodur anaçta destek kurmamak:** Ağaçlar yük altında yatar
+- **Aşı yerini toprağa gömmek:** Kalem köklenir, bodurluk kaybolur
+- **Uyarı beklemeden ilaçlamak:** Maliyet ve kalıntı riski artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Bakım Takvimi
+[takvim]
+Kış budaması: 2-3
+Kış ilaçlaması: 3
+Gübreleme: 3-5, 11
+Çiçeklenme ve don takibi: 4-5
+İçkurdu takibi: 5-8
+Meyve seyreltme: 6
+Sulama: 5-9
+Hasat: 8-10

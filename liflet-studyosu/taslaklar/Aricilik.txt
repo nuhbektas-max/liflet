@@ -1,0 +1,49 @@
+﻿# ARICILIK
+Bal ve Tozlaşma
+
+## Arıcılığın Önemi
+Bal arıları yalnızca bal, polen ve propolis üretmez; meyve, sebze ve yağ bitkilerinde tozlaşmayı sağlayarak verimi önemli ölçüde artırır. İç Anadolu'nun zengin bitki örtüsü arıcılık için uygun koşullar sunar.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Kovan yeri | Güneşli, rüzgârdan korunaklı, suya yakın |
+| En önemli zararlı | Varroa |
+| Bal hasadı | Çerçevelerin büyük kısmı sırlanınca |
+| Kayıt | Arıcılık Kayıt Sistemi |
+| İhbarı zorunlu | Amerikan yavru çürüklüğü |
+
+## Kovan Yeri Seçimi
+Kovanlar güneş alan, sert rüzgârlardan korunaklı, temiz su kaynağına yakın ve tarım ilacı uygulanan alanlardan uzak yerlere konulmalıdır. Kovanlar yerden yükseltilmiş sehpalar üzerine yerleştirilmelidir.
+Kovanların ağızları sabah güneşini alacak şekilde güneydoğuya bakmalı, kovanlar arasında arıların karışmasını önleyecek kadar mesafe bırakılmalıdır. Bal akımı olan bitki örtüsünün 2–3 km yakınında olmak verimi artırır.
+
+## Mevsimlik Bakım
+- **İlkbahar:** Ana arı, yavru durumu ve besin stoğu kontrol edilir; zayıf koloniler birleştirilir
+- **Oğul dönemi:** Kovan genişletilerek ve kontroller sıklaştırılarak oğul verme önlenir
+- **Yaz:** Ballık eklenir, bal akımı takip edilir
+- **Bal hasadı:** Çerçevelerin büyük kısmı sırlandığında yapılır; arılara kışlık bal bırakılır
+- **Sonbahar:** Varroa mücadelesi yapılır, koloniler kışa hazırlanır
+
+## Hastalık ve Zararlılar
+- **Varroa:** En önemli zararlıdır; ruhsatlı ilaçlarla, uygun dönemde ve bal hasadından sonra mücadele edilir.
+- **Amerikan yavru çürüklüğü:** İhbarı zorunlu bir hastalıktır; şüphelenildiğinde Müdürlüğümüze bildirilmelidir.
+- **Nosema:** Arıların sindirim sistemini etkiler, koloni zayıflar.
+> Önemli: Bal hasadı döneminde kovanlarda ilaç kullanılmamalı, yalnızca ruhsatlı veteriner ilaçları kullanılmalıdır.
+
+## Çiftçi ile Arıcı Birlikte
+Çiçeklenme döneminde ilaçlama yapılmamalıdır. Zorunlu ilaçlamalar arıların uçmadığı akşam saatlerinde yapılmalı ve çevredeki arıcılara önceden haber verilmelidir. Meyve bahçelerine çiçeklenmede kovan yerleştirilmesi verimi artırır.
+
+## Sık Yapılan Hatalar
+- **Varroa mücadelesini geciktirmek:** Koloniler kışı çıkaramaz
+- **Arılara yeterli kışlık bal bırakmamak:** Koloni açlıktan ölür
+- **Kayıt yaptırmamak:** Desteklerden yararlanılamaz
+- **Çiçeklenmede ilaçlama:** Arı ölümleri ve verim kaybı
+
+## Arıcılık Takvimi
+[takvim]
+Kış kontrolü: 12-2
+İlkbahar kontrolü: 3-4
+Oğul kontrolü: 4-6
+Ballık ekleme: 5-6
+Bal hasadı: 7-8
+Varroa mücadelesi: 8-9
+Kışa hazırlık: 9-10

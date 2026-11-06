@@ -1,0 +1,49 @@
+﻿# MERCİMEK
+Yetiştiriciliği
+
+## Mercimeğin Önemi
+Mercimek, kuru tarıma uygun ve besin değeri yüksek bir baklagildir. İç Anadolu'da daha çok yeşil mercimek yetiştirilir. Tahıllarla ekim nöbetine girdiğinde toprağa azot kazandırır ve nadas alanlarının değerlendirilmesini sağlar.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Mart–nisan başı |
+| Tohum | Dekara 10–14 kg |
+| Sıra arası | 20–30 cm |
+| Derinlik | 4–6 cm |
+| Hasat | Haziran sonu–temmuz |
+
+## Toprak ve Ekim Nöbeti
+Tınlı, süzek ve kireçli topraklarda iyi gelişir. Hastalık ve zararlıların birikmemesi için aynı tarlaya en az 3–4 yıl arayla ekilmelidir.
+
+## Ekim
+Tescilli çeşitlerin sertifikalı ve ilaçlı tohumluğu kullanılmalıdır. Ekim, toprak tava geldiğinde mibzerle yapılmalıdır. Düzgün ve bastırılmış tohum yatağı, düzenli çıkış ve makineli hasat için önemlidir.
+
+## Bakım
+Mercimek ilk dönemde yavaş geliştiğinden yabancı otlarla rekabeti zayıftır; yabancı ot kontrolü erken yapılmalıdır. Azotlu gübreye ihtiyacı azdır; fosfor ekimle birlikte verilmelidir.
+
+## Hastalık ve Zararlılar
+- **Sitona (yaprak kenar böceği):** Yaprak kenarlarını yer, larvaları kök nodüllerine zarar verir.
+- **Mercimek tohum böceği:** Tarlada danelere girer, depoda zarar verir.
+- **Pas ve kök çürüklüğü:** Ekim nöbeti ve dayanıklı çeşitle azaltılır.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre yapılmalıdır.
+
+## Hasat
+Alt baklalar kahverengileşip üst baklalar sarardığında hasat edilir. Baklaların çatlayıp dökülmemesi için hasat sabahın serin saatlerinde yapılmalıdır. Dik gelişen çeşitler biçerdöverle hasat edilebilir.
+Harmandan sonra dane temizlenmeli, kırık ve yabancı maddelerden arındırılmalıdır. Nemi %12'nin altına inmiş ürün kuru ve havadar depolarda saklanmalıdır.
+
+## Sık Yapılan Hatalar
+- **Geç ekim:** Bitki yaz kuraklığına yakalanır, verim düşer
+- **Yabancı otu geç kontrol etmek:** Mercimek otlar arasında kaybolur
+- **Öğle sıcağında hasat:** Baklalar çatlar, dane dökülür
+- **Depoyu ilaçsız ve kontrolsüz bırakmak:** Tohum böceği ürünü bozar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Toprak hazırlığı: 3
+Ekim: 3-4
+Yabancı ot kontrolü: 4-5
+Sitona takibi: 4-5
+Hasat: 6-7
+Depolama: 7-12

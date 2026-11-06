@@ -1,0 +1,11 @@
+YAZI TİPLERİNİ KURMA (Windows)
+
+Liflet Stüdyosu'nun Word çıktılarının tasarımdaki gibi görünmesi için
+Montserrat ve Open Sans yazı tiplerinin bilgisayarınızda kurulu olması gerekir.
+
+1. Bu klasördeki tüm .ttf dosyalarını seçin.
+2. Sağ tıklayın ve "Yükle" (veya "Tüm kullanıcılar için yükle") seçin.
+3. Word açıksa kapatıp yeniden açın.
+
+Bu yazı tipleri Google Fonts'tan alınmıştır ve SIL Open Font License ile
+ücretsiz olarak kullanılabilir (resmi yayınlar dahil).

@@ -1,0 +1,56 @@
+﻿# DOMATES
+Yetiştiriciliği
+
+## İç Anadolu'da Domates
+Domates bölgede açık tarlada ve örtü altında yetiştirilir. Ankara'nın Ayaş ilçesinde yetişen ince kabuklu, sulu ve aromatik Ayaş domatesi bölgenin yöresel ürünlerindendir.
+Sofralık ve salçalık amaca uygun çeşit seçimi verim ve kazancı doğrudan etkiler. Yerel domates tiplerinin tohumlarının korunması, bölgenin lezzet mirasının sürdürülmesi açısından önemlidir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Fide dikimi | Mayıs ortası (don sonrası) |
+| Aralık | 100–120 × 40–50 cm |
+| İdeal sıcaklık | 18–27°C |
+| Sulama | Damla, düzenli |
+| Hasat | Temmuz–eylül |
+
+## İklim ve Toprak
+Domates sıcak seven bir bitkidir ve dona dayanamaz. İç Anadolu'da fideler, geç don tehlikesi geçtikten sonra (genellikle mayıs ortası) tarlaya dikilmelidir. Gelişme için ideal sıcaklık 18–27°C'dir.
+Derin, süzek, organik maddece zengin tınlı topraklarda en iyi sonucu verir.
+
+## Fide ve Dikim
+- **Fide:** Viyollerde yetiştirilmiş, 4–6 yapraklı, dikimden önce dış koşullara alıştırılmış fideler
+- **Aralık:** Sırık domateste sıra arası 100–120 cm, sıra üzeri 40–50 cm
+- **Dikim:** Akşamüstü veya serin saatlerde, can suyu verilerek
+
+## Bakım
+Sırık domateste bitkiler ip veya sırığa bağlanmalı, koltuklar düzenli olarak alınmalıdır. Malçlama toprak nemini korur ve yabancı otları azaltır.
+Damla sulama tercih edilmelidir. Düzensiz sulama meyvede çatlamaya ve çiçek burnu çürüklüğüne yol açar. Gübreleme toprak analizine göre yapılmalı; potasyum renk ve kalite için önemlidir.
+Toprak kökenli hastalıkların artmaması için domates, biber, patlıcan ve patatesin aynı tarlaya üst üste ekilmemesi gerekir; en az 3 yıllık ekim nöbeti uygulanmalıdır.
+
+## Hastalık ve Zararlılar
+- **Domates güvesi (Tuta):** Yaprak ve meyvelerde galeriler açar; feromon tuzaklarıyla takip edilmelidir.
+- **Mildiyö:** Serin ve nemli dönemlerde yaprak ve meyvelerde hızla yayılır.
+- **Erken yaprak yanıklığı:** Alt yapraklarda halkalı lekeler oluşturur.
+- **Beyazsinek ve yaprak biti:** Virüs hastalıklarını taşır; sarı yapışkan tuzaklarla izlenmelidir.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre, ruhsatlı ilaçlarla ve hasat öncesi bekleme süresine uyularak yapılmalıdır.
+
+## Hasat
+Uzak pazara gönderilecek meyveler pembe olumda, yakın pazar ve sofralık tüketim için kırmızı olumda hasat edilir. Hasat sabah serinliğinde yapılmalı, meyveler güneşte bekletilmemelidir.
+
+## Sık Yapılan Hatalar
+- **Don geçmeden dikmek:** Fideler soğuktan zarar görür
+- **Düzensiz sulama:** Çiçek burnu çürüklüğü ve çatlama
+- **Bekleme süresine uymamak:** Meyvede ilaç kalıntısı kalır
+- **Aynı yere sürekli domates ekmek:** Toprak kökenli hastalıklar artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Fide yetiştirme: 3-4
+Toprak hazırlığı: 4
+Fide dikimi: 5
+Koltuk alma ve bağlama: 6-8
+Sulama: 5-9
+Tuta takibi: 6-9
+Hasat: 7-9

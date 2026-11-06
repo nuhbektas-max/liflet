@@ -1,0 +1,56 @@
+﻿# NOHUT
+Yetiştiriciliği
+
+## Nohudun Önemi
+Nohut, kuru tarıma uygun bir baklagildir. Kökündeki nodül bakterileri havanın azotunu toprağa bağlar; bu nedenle buğday–nohut ekim nöbeti hem toprağı iyileştirir hem de sonraki tahılın verimini artırır. İç Anadolu, Türkiye nohut üretiminde önemli bir paya sahiptir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ekim | Mart sonu–nisan |
+| Tohum | 10–15 kg/da |
+| Sıra arası | 30–45 cm |
+| Ekim nöbeti | En az 3–4 yılda bir |
+| Hasat | Temmuz |
+
+## Toprak ve Ekim Nöbeti
+Tınlı, süzek ve kireçli topraklarda iyi gelişir; su tutan ağır topraklar uygun değildir. Hastalıkların birikmemesi için aynı tarlaya en az 3–4 yıl arayla ekilmelidir.
+
+## Çeşit ve Tohumluk
+Antraknoza dayanıklı veya toleranslı tescilli çeşitlerin sertifikalı tohumluğu kullanılmalıdır. Tohumlar ekimden önce ilaçlanmalı; nohudun ilk kez ekildiği tarlalarda bakteri aşılaması yapılmalıdır.
+Makineli hasat için dik ve uzun boylu, ilk baklası yerden yüksek çeşitler tercih edilmelidir. Bu çeşitler hasat kayıplarını ve işçilik giderlerini önemli ölçüde azaltır.
+
+## Ekim
+- **Zaman:** Mart sonu–nisan; toprak tava geldiğinde
+- **Tohum miktarı:** Tane iriliğine göre dekara 10–15 kg
+- **Sıra arası:** 30–45 cm
+- **Derinlik:** 5–8 cm
+
+## Bakım
+Nohut ilk dönemde yavaş geliştiği için yabancı otlarla rekabeti zayıftır; erken dönemde çapa veya uygun ilaçla yabancı ot kontrolü yapılmalıdır. Azotlu gübreye ihtiyacı azdır; fosfor ekimle birlikte verilmelidir.
+
+## Hastalık ve Zararlılar
+- **Antraknoz:** En önemli hastalıktır; yağışlı ilkbaharlarda yaprak, sap ve baklalarda lekeler oluşturur. Dayanıklı çeşit, ilaçlı tohum ve ekim nöbeti uygulanmalıdır.
+- **Nohut tane kurdu:** Baklalardaki daneleri yer; çiçeklenme–bakla bağlama döneminde takip edilmelidir.
+- **Kök ve kökboğazı çürüklüğü:** Ekim nöbeti ve iyi drenaj ile azaltılır.
+> Önemli: İlaçlamalar Müdürlüğümüzün tahmin ve erken uyarı bildirimlerine göre yapılmalıdır.
+
+## Hasat ve Depolama
+Bitkiler sararıp baklalar kuruduğunda (temmuz) hasat edilir. Dik gelişen çeşitler biçerdöverle hasat edilebilir. Ürün iyice kurutulup serin, kuru ve havadar depolarda saklanmalı, depo zararlılarına karşı düzenli kontrol edilmelidir.
+
+## Sık Yapılan Hatalar
+- **Aynı tarlaya her yıl ekmek:** Antraknoz salgına dönüşür
+- **Yabancı otu geç kontrol etmek:** Yavaş gelişen nohut otlara yenik düşer
+- **İlaçsız tohum ekmek:** Hastalık tohumla taşınır
+- **Su tutan tarlaya ekmek:** Kök çürüklüğü artar
+
+> Bize danışın: Bahçe veya tarla kurmadan, gübreleme ve ilaçlama programı yapmadan önce Müdürlüğümüzün ziraat mühendislerinden teknik destek alabilirsiniz.
+
+## Üretim Takvimi
+[takvim]
+Toprak hazırlığı: 3
+Ekim: 3-4
+Yabancı ot kontrolü: 4-5
+Antraknoz takibi: 5-6
+Tane kurdu takibi: 6
+Hasat: 7
+Depolama: 8-12

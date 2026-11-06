@@ -1,0 +1,49 @@
+﻿# TOPRAK ANALİZİ
+Neden, Ne Zaman, Nasıl?
+
+## Neden Toprak Analizi?
+Toprak analizi, tarlanızın neye ihtiyacı olduğunu gösteren bir sağlık raporudur. Analize göre gübreleme yapan çiftçi gereksiz gübreye para harcamaz, eksik besini tamamlar ve hem verimi hem de kaliteyi artırır.
+> Biliyor musunuz? Analiz yapılmadan atılan fazla gübre, verimi artırmadığı gibi toprağı tuzlandırabilir ve yer altı sularını kirletebilir.
+
+## Bir Bakışta
+| Konu | Bilgi |
+| Ne zaman | Hasattan sonra, ekim/dikimden 1–2 ay önce |
+| Ne sıklıkla | Tarla bitkilerinde 3–4 yılda bir |
+| Derinlik | Tarla 0–30 cm; meyve bahçesi 0–30 ve 30–60 cm |
+| Nokta sayısı | Her parselden 15–20 nokta |
+| Gönderilecek miktar | Karışımdan 1–1,5 kg |
+
+## Örnek Nasıl Alınır?
+1. Tarla zikzak çizerek gezilir; her parselden 15–20 noktadan örnek alınır.
+2. Toprak yüzeyindeki bitki artıkları ve taşlar temizlenir.
+3. Kürekle V şeklinde çukur açılır, çukurun kenarından ince bir dilim alınır.
+4. Tüm örnekler temiz bir kovada iyice karıştırılır, karışımdan 1–1,5 kg alınır.
+5. Temiz bir torbaya konulur; ad-soyad, köy, parsel, önceki ve ekilecek ürün etikete yazılır.
+
+## Nerelerden Örnek Alınmaz?
+> Dikkat: Tarla kenarları, yol kenarları, gübre ve sap yığını yerleri, hayvan yatakları ve sulama kanalı çevresinden örnek alınmamalıdır. Gübreleme yapılan tarladan en az 2–3 ay geçmeden örnek alınmamalı, gübre torbası veya ilaç kabı örnek kabı olarak kullanılmamalıdır.
+
+## Analizde Neye Bakılır?
+- **pH ve kireç:** Toprağın asitlik–bazlık durumu ve besinlerin alınabilirliği
+- **Tuzluluk:** Bitki gelişimini engelleyen tuz birikimi
+- **Organik madde:** Toprağın verimlilik ve su tutma gücü
+- **Fosfor ve potasyum:** Temel besin elementleri
+- **Bünye:** Kumlu, tınlı veya killi yapı; sulama ve gübreleme şekline yön verir
+Meyve bahçelerinde gerekirse demir, çinko gibi mikro elementler ve yaprak analizi de yaptırılmalıdır.
+
+## Sonuçlar ve Gübre Tavsiyesi
+Analiz raporu, ürününüze ve hedef verime göre hazırlanan gübre tavsiyesiyle birlikte değerlendirilmelidir. Raporunuzu Müdürlüğümüzün teknik personeline danışarak yorumlatabilirsiniz.
+Raporda pH yüksek ve kireç fazla çıkmışsa demir ve çinko eksikliği riski vardır; organik madde düşükse çiftlik gübresi ve yeşil gübreleme önerilir. Tuzluluk çıkan tarlalarda drenaj ve uygun sulama yöntemi seçilmelidir.
+
+## Sık Yapılan Hatalar
+- **Tek noktadan örnek almak:** Sonuç tarlanın tamamını temsil etmez
+- **Gübre torbasıyla örnek göndermek:** Sonuçlar yanlış çıkar
+- **Islak, çamurlu toprak göndermek:** Örnek bozulur
+- **Raporu okumadan eski alışkanlıkla gübrelemek:** Para ve verim kaybı
+
+## Örnek Alma Takvimi
+[takvim]
+Kışlık ekim öncesi: 7-9
+İlkbahar ekimi öncesi: 10-11
+Meyve bahçesi toprak: 10-11
+Meyve bahçesi yaprak: 7-8
